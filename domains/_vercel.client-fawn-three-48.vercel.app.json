@@ -1,0 +1,8 @@
+{
+    "owner": {
+        "username": "your-github-username"
+    },
+    "records": {
+        "TXT": "vc-domain-verify=shakibul.is-a.dev,d38d928cb60d63d2d165"
+    }
+}
